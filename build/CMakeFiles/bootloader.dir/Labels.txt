@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Docement/espidf-project/uuusb/build/CMakeFiles/bootloader
+D:/Docement/espidf-project/uuusb/build/CMakeFiles/bootloader.rule
+D:/Docement/espidf-project/uuusb/build/CMakeFiles/bootloader-complete.rule
+D:/Docement/espidf-project/uuusb/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Docement/espidf-project/uuusb/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Docement/espidf-project/uuusb/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Docement/espidf-project/uuusb/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Docement/espidf-project/uuusb/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Docement/espidf-project/uuusb/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Docement/espidf-project/uuusb/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,25 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32s3.cfg"
+  ],
+  "files.associations": {
+    "sdkconfig.h": "c",
+    "lvgl_init.h": "c",
+    "lv_hal_disp.h": "c",
+    "complex": "c",
+    "lvgl.h": "c",
+    "lv_hal.h": "c",
+    "thread": "c",
+    "my_lvgl.h": "c",
+    "my_lvgl_keyboard.h": "c",
+    "random": "c",
+    "cst816t.h": "c",
+    "stdbool.h": "c",
+    "my_lvgl_mouse.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM22"
+}

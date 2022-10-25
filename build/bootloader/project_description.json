@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "D:/Docement/espidf-project/uuusb/build/bootloader",
+    "config_file":        "D:/Docement/espidf-project/uuusb/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4.2-dirty",
+    "target":             "esp32s3",
+    "rev":                "",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/efuse/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp32s3/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp_common/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp_hw_support/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp_system/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/freertos/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/hal/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/log/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/newlib/Kconfig;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/bootloader/Kconfig.projbuild;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp_rom/Kconfig.projbuild;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esptool_py/Kconfig.projbuild;D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32s3", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/bootloader", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/bootloader_support", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/efuse", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp32s3", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp_common", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp_hw_support", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp_rom", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esp_system", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/esptool_py", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/freertos", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/hal", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/log", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/bootloader/subproject/main", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/newlib", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/partition_table", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/soc", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/spi_flash", "D:/SoftWare/IDF_TOOLS_PATH/esp/esp-idf/components/xtensa", "" ]
+}
